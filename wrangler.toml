@@ -1,0 +1,8 @@
+name = "code-reviewer"
+compatibility_date = "2025-03-28"
+
+[build]
+command = "npm run build"
+
+[site]
+bucket = "./dist"
